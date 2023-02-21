@@ -249,14 +249,15 @@
 }
  .ul_list_info_icon ul li {
      display: inline;
-     float: left;
+     float: left; 
      width: 100%;
 }
  .ul_list_info_icon ul li img {
      width: 75px;
 }
 /*---------------------------- preloader area ----------------------------*/
- .loader_bg {
+ .loader_bg { 
+ 
      position: fixed;
      z-index: 9999999;
      background: #060000;
@@ -833,7 +834,7 @@
 }
 .menu-area-main li.active a {
      color: #fff;
-     background: #AF0000;
+     background: #FF0000;
      border-radius: 17px;
      }
 
@@ -862,7 +863,7 @@
 
  .main-menu ul>li a:hover {
 color: #fff;
-background: #AF0000;
+background: #FF0000;
 border-radius: 17px;
 transition: all 0.3s ease-in;
  }
@@ -1002,7 +1003,7 @@ transition: all 0.3s ease-in;
   .text-bg span {
     font-size: 80px;
     line-height: 80px;
-    color: #AF0000;
+    color: #FF0000;
     text-transform: uppercase;
   }
  .text-bg h1 {
@@ -1036,7 +1037,7 @@ margin-right: 10px;
 transition: ease all 0.5s;
  }
  .text-bg a:hover {
-     background-color: #AF0000;
+     background-color: #FF0000;
     color: #ddd;
     transition: ease all 0.5s;          
 }
@@ -1177,8 +1178,8 @@ border-radius: 30px;
 
 
  .about .about-box a:hover{ 
-     background-color: #AF0000;
-     border: #AF0000 solid 1px;
+     background-color: #FF0000;
+     border: #FF0000 solid 1px;
     color: #fff;
  }
  .about .about-box figure {
@@ -1231,8 +1232,8 @@ float: left;
 margin-top: 53px;
 }
  .box_text a:hover {
-     background-color: #AF0000;
-     border: #AF0000 solid 1px;
+     background-color: #FF0000;
+     border: #FF0000 solid 1px;
      color: #ddd;
 }
 .padding_left3 {padding-right: 0px;}
