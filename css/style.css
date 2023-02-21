@@ -21,7 +21,7 @@
      scroll-behavior: smooth;
 }
  body {
-     color: #454545;
+     color: rgb(69, 69, 69);;
      font-size: 14px;
      font-family: 'Poppins', sans-serif;
      line-height: 1.80857;
@@ -114,7 +114,7 @@
  .btn-custom {
      margin-top: 20px;
      background-color: transparent !important;
-     border: 2px solid #ddd;
+     border: 2px solid rgb(221, 221, 221);;
      padding: 12px 40px;
      font-size: 16px;
 }
@@ -158,7 +158,7 @@
      padding-bottom: 75px;
 }
  .light_silver {
-     background: #161616;
+     background: rgb(22, 22, 22);;
 }
  .theme_bg {
      background: #38c8a8;
@@ -1026,7 +1026,7 @@ font-weight: 400;
  .text-bg a {
      font-size: 16px;
 background-color: #000;
-color: #ddd;
+color: rgb(221, 221, 221);;
 padding: 12px 0px;
 max-width: 253px;
 width: 100%;
@@ -1038,7 +1038,7 @@ transition: ease all 0.5s;
  }
  .text-bg a:hover {
      background-color: rgb(128, 0, 0);;
-    color: #ddd;
+    color: rgb(221, 221, 221);;
     transition: ease all 0.5s;          
 }
  .text {
@@ -1093,7 +1093,7 @@ transition: ease all 0.5s;
 .padding_dd {padding: 0px 50px;}
 
 .carousel-control-prev i {
- background: #161616;
+ background: rgb(22, 22, 22);;
     color: #af0000;
     width: 70px;
     height: 70px;
@@ -1105,7 +1105,7 @@ transition: ease all 0.5s;
     box-shadow: #000 0px 0px 7px -3px;
 }
 .carousel-control-next i {
-    background: #161616;
+    background: rgb(22, 22, 22);;
     color: #af0000;
     width: 70px;
     font-size: 20px;
@@ -1133,7 +1133,7 @@ transition: ease all 0.5s;
 
 /** about section **/
  .about {
-     background: #161616;
+     background: rgb(22, 22, 22);;
 padding: 110px 0;
 margin-top: 90px;
      
@@ -1159,7 +1159,7 @@ margin-top: 90px;
  .about .about-box p {
      font-size: 17px;
      line-height: 28px;
-     color: #ddd;
+     color: rgb(221, 221, 221);;
      padding: 35px 0px;
 }
 
@@ -1194,7 +1194,7 @@ border-radius: 30px;
  .upcoming {
      margin-top: 90px;
      padding: 110px 0;
-     background: #161616;
+     background: rgb(22, 22, 22);;
 }
  
  .box_text {
@@ -1214,14 +1214,14 @@ border-radius: 30px;
      line-height: 35px;
      font-weight: 400;
      text-align: left;
-     color: #ddd;
+     color: rgb(221, 221, 221);;
      padding-right: 20px;
 }
  .box_text a {
     font-size: 16px;
 border: #000 solid 1px;
 background-color: #000;
-color: #ddd;
+color: rgb(221, 221, 221);;
 padding: 9px 0px;
 max-width: 171px;
 width: 100%;
@@ -1234,7 +1234,7 @@ margin-top: 53px;
  .box_text a:hover {
      background-color: rgb(128, 0, 0);;
      border: rgb(128, 0, 0); solid 1px;
-     color: #ddd;
+     color: rgb(221, 221, 221);;
 }
 .padding_left3 {padding-right: 0px;}
 
@@ -1251,7 +1251,7 @@ margin-top: 53px;
 
 /** Gallery **/
 .Gallery {
-background: #161616;
+background: rgb(22, 22, 22);;
 padding: 110px 0;
 margin-top: 90px;
 }
@@ -1265,7 +1265,7 @@ margin-top: 90px;
      line-height: 35px;
      font-weight: 400;
      text-align: right;
-     color: #ddd;
+     color: rgb(221, 221, 221);;
     
 }
  .Gallery_text a {
@@ -1318,7 +1318,7 @@ transition: ease-in all 0.5s;
  .Gallery_text a:hover {
      background-color: #af0000;
      border: #af0000 solid 1px;
-     color: #ddd;
+     color: rgb(221, 221, 221);;
 }
 ul.icon_hu {text-align: center;}
 ul.icon_hu h3 {color: #fff; font-size: 26px; padding: 0; font-weight: 500;}
@@ -1381,7 +1381,7 @@ ul.icon_hu li {padding: 10px 3px; display: inline-block;}
 .contact_bg .send {
      font-size: 16px;
      background-color: #000;
-     color: #ddd;
+     color: rgb(221, 221, 221);;
      max-width: 171px;
      width: 100%;
      padding: 11px 0px;
@@ -1400,7 +1400,7 @@ transition: all 0.3s ease-in;
 
 /** footer **/
  .footer {
-     background: #161616;
+     background: rgb(22, 22, 22);;
      margin-top: 90px;
 }
  .news h3 {
@@ -1426,7 +1426,7 @@ padding-bottom: 20px;
      padding: 20px 35px;
 }
 
-.border_top {border-top: #ddd solid 1px;} 
+.border_top {border-top: rgb(221, 221, 221); solid 1px;} 
  .news {
     padding: 35px 0px 0px 0px;
 max-width: 71%;
@@ -1456,8 +1456,8 @@ margin: 0 auto;
       transition: all 0.3s ease-in;
 }
  .submit:hover {
-     background: #ddd;
-     border: #ddd solid 1px;
+     background: rgb(221, 221, 221);;
+     border: rgb(221, 221, 221); solid 1px;
      color: #af0000;
      transition: all 0.3s ease-in;
 
@@ -1499,7 +1499,7 @@ flex-wrap: wrap;
  
  ul.social_link li a  {
     font-size: 24px;
-color: #161616;
+color: rgb(22, 22, 22);;
 background: #af0000;
 border-radius: 80px;
 display: flex;
@@ -1517,7 +1517,7 @@ justify-content: center;
      padding: 23px 0px;
 
      margin-top: 55px;
-     border-top: #ddd solid 1px;
+     border-top: rgb(221, 221, 221); solid 1px;
 
 }
  .copyright p {
@@ -1537,7 +1537,7 @@ justify-content: center;
 /*--------------------------------------------------------------------- ener page css ---------------------------------------------------------------------*/
 
 
-.contineer_page .header {background: #454545; padding-bottom: 27px;     position: inherit;}
+.contineer_page .header {background: rgb(69, 69, 69);; padding-bottom: 27px;     position: inherit;}
 
 .backgro_mh {background: #af0000; }
 .heding h2 {
