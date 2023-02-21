@@ -834,7 +834,7 @@
 }
 .menu-area-main li.active a {
      color: #fff;
-     background: #FF0000;
+     background: rgb(128, 0, 0);;
      border-radius: 17px;
      }
 
@@ -863,7 +863,7 @@
 
  .main-menu ul>li a:hover {
 color: #fff;
-background: #FF0000;
+background: rgb(128, 0, 0);;
 border-radius: 17px;
 transition: all 0.3s ease-in;
  }
@@ -1003,7 +1003,7 @@ transition: all 0.3s ease-in;
   .text-bg span {
     font-size: 80px;
     line-height: 80px;
-    color: #FF0000;
+    color: rgb(128, 0, 0);;
     text-transform: uppercase;
   }
  .text-bg h1 {
@@ -1037,7 +1037,7 @@ margin-right: 10px;
 transition: ease all 0.5s;
  }
  .text-bg a:hover {
-     background-color: #FF0000;
+     background-color: rgb(128, 0, 0);;
     color: #ddd;
     transition: ease all 0.5s;          
 }
@@ -1178,8 +1178,8 @@ border-radius: 30px;
 
 
  .about .about-box a:hover{ 
-     background-color: #FF0000;
-     border: #FF0000 solid 1px;
+     background-color: rgb(128, 0, 0);;
+     border: rgb(128, 0, 0); solid 1px;
     color: #fff;
  }
  .about .about-box figure {
@@ -1232,8 +1232,8 @@ float: left;
 margin-top: 53px;
 }
  .box_text a:hover {
-     background-color: #FF0000;
-     border: #FF0000 solid 1px;
+     background-color: rgb(128, 0, 0);;
+     border: rgb(128, 0, 0); solid 1px;
      color: #ddd;
 }
 .padding_left3 {padding-right: 0px;}
