@@ -17,16 +17,22 @@
  * {
      box-sizing: border-box !important;
 }
+.about_gallery
+{
+	align-content: center;
+}
  html {
      scroll-behavior: smooth;
 }
  body {
-     color: rgb(69, 69, 69);;
-     font-size: 14px;
-     font-family: 'Poppins', sans-serif;
-     line-height: 1.80857;
-     font-weight: normal;
-     overflow-x: hidden;
+    color: rgb(69, 69, 69);
+    ;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.80857;
+    font-weight: normal;
+    overflow-x: hidden;
+    display: inline;
 }
  a {
      color: #1f1f1f;
@@ -980,7 +986,7 @@ transition: all 0.3s ease-in;
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 50px;
-    
+     margin-bottom: 90px;
      min-height: 980px;
 }
  .header {
@@ -999,7 +1005,7 @@ transition: all 0.3s ease-in;
  .banner_Client {
      position: relative;
 }
- .text-bg {text-align: center;}
+ .text-bg {margin-top: 00px; text-align: center;}
   .text-bg span {
     font-size: 80px;
     line-height: 80px;
@@ -1022,6 +1028,7 @@ color: rgb(256, 256, 256);;
 line-height: 30px;
 padding-bottom: 50px;
 font-weight: 400;
+	 margin-top: 250px;
 }
  .text-bg a {
      font-size: 16px;
@@ -1135,19 +1142,24 @@ transition: ease all 0.5s;
  .about {
      background: rgb(22, 22, 22);;
 padding: 110px 0;
-margin-top: 90px;
+margin-bottom: 90px;
      
 }
 
 .display_boxflex {
-
-     display: flex;
-     align-items: center;
-     flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    flex-wrap: no-wrap;
+    width: auto;
 }
  .about .about-box {
-    text-align: left;
-    
+    text-align: center;
+    clear: none;
+    width: auto;
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+    display: inline;
 }
  .about .about-box h2 {
      padding: 0;
@@ -1251,9 +1263,10 @@ margin-top: 53px;
 
 /** Gallery **/
 .Gallery {
-background: rgb(22, 22, 22);;
-padding: 110px 0;
-margin-top: 90px;
+    background: rgb(22, 22, 22);
+    ;
+    padding: 110px 0;
+    margin-bottom: 90px;
 }
 
 .Gallery_text .titlepage {
@@ -1302,7 +1315,7 @@ display: flex;
 justify-content: center;
 position: absolute;
 top: 0;
-width: 92.5%;
+width: 95%;
 box-sizing: border-box;
 float: left;
 height: 100%;
@@ -1312,7 +1325,7 @@ transition: ease-in all 0.5s;
 
 }
 .hover_box:hover  {
-     opacity: 1;
+     opacity: 0.75;
      transition: ease-in all 0.5s;
 }
  .Gallery_text a:hover {
