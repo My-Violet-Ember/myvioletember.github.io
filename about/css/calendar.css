@@ -24,7 +24,7 @@ body {
   transform: translate3d(0, 0, 0);
   width: 420px;
   margin: 0 auto;
-  height: 570px;
+  height: 600px;
   overflow: hidden;
 }
 
@@ -172,7 +172,7 @@ body {
 .details {
   position: relative;
   width: 420px;
-  height: 75px;
+  height: auto;
   background: rgba(164, 164, 164, 1);
   margin-top: 5px;
   border-radius: 4px;
@@ -204,7 +204,7 @@ body {
 }
 
 .events {
-  height: 75px;
+  height: auto;
   padding: 7px 0;
   overflow-y: auto;
   overflow-x: hidden;
