@@ -1441,9 +1441,8 @@ padding-bottom: 20px;
 
 .border_top {border-top: rgb(221, 221, 221); solid 1px;} 
  .news {
-    padding: 35px 0px 0px 0px;
 max-width: 71%;
-margin: 0 auto;
+margin: -50px auto 100px;
 }
  .news .newslatter {
      padding: 0px 30px;
@@ -1538,6 +1537,7 @@ justify-content: center;
      font-size: 18px;
      line-height: 28px;
      text-align: center;
+	 margin-top: -50px;
    
 }
  .copyright a {
