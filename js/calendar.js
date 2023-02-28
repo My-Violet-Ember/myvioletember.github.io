@@ -321,10 +321,8 @@
 
 !function() {
   var data = [
-    { eventName: 'Interview - Jr. Web Developer', calendar: 'Song Release', color: 'red', date: '2023-02-23' },
-    { eventName: 'Demo New App to the Board', calendar: 'Album Release', color: 'darkred', date: '2023-02-23' },
     { eventName: 'GHS Rocks - 7PM', calendar: 'Concert', color: 'orange', date: '2023-04-28' },
-    { eventName: 'GHS Rocks - 2PM', calendar: 'Concert', color: 'orange', date: '2023-04-29' },
+    { eventName: 'GHS Rocks - 12PM', calendar: 'Concert', color: 'orange', date: '2023-04-29' },
   ];
 
   
