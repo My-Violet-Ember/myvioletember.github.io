@@ -1147,7 +1147,7 @@ margin-bottom: 90px;
 }
 
 .display_boxflex {
-    display: flex;
+    display: inline;
     align-items: center;
     flex-wrap: no-wrap;
     width: auto;
