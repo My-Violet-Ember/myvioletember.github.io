@@ -321,8 +321,8 @@
 
 !function() {
   var data = [
-    { eventName: 'GHS Rocks - 7PM', calendar: 'Concert', color: 'orange', date: '2023-04-28' },
-    { eventName: 'GHS Rocks - 12PM', calendar: 'Concert', color: 'orange', date: '2023-04-29' },
+    { eventName: 'GHS Rocks - 7PM', calendar: 'Concert', color: 'orange', date: '2023-05-05' },
+    { eventName: 'GHS Rocks - 12PM', calendar: 'Concert', color: 'orange', date: '2023-05-06' },
   ];
 
   
