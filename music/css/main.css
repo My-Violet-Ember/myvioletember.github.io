@@ -3,7 +3,7 @@ html { background: #383B44; }
 
 .jAudio, .jAudio * { padding: 0; margin: 0; box-sizing: border-box; outline: none; font-family: "Open Sans"; color: #888; font-weight: 100; }
 
-.jAudio { display: table; overflow: hidden; background: #fff; box-shadow: 0 0 5px rgba(0, 0, 0, 0.8); margin: 100px auto; width: 352px; }
+.jAudio { display: table; overflow: hidden; background: #000; box-shadow: 0 0 5px rgba(0, 0, 0, 0.8); margin: 100px auto; width: 352px; }
 .jAudio:after { content: " "; display: block; width: 100%; clear: both; }
 .jAudio--ui { position: relative; width: 100%; }
 .jAudio--status-bar { width: 100%; z-index: 1; position: relative; padding: 100px 2rem 2rem 2rem; display: table; }
