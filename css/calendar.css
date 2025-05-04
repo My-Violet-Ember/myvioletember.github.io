@@ -127,7 +127,7 @@ body {
 }
 
 .day.today {
-  color: rgba(156, 202, 235, 1);
+  color: #e19e00;
 }
 
 .day-name {
@@ -167,7 +167,8 @@ body {
 .red { background: rgba(255, 0, 0, 1); }
 .orange { background: rgba(247, 167, 0, 1); }
 .darkred { background: rgba(175, 0, 0, 1); }
-.yellow { background: rgba(249, 233, 0, 1); }
+.yellow { background: #e19e00; }
+.purple { background: #430094; }
 
 .details {
   position: relative;
@@ -290,7 +291,8 @@ body {
 .entry.red:after { background: rgba(255, 0, 0, 1); }
 .entry.orange:after { background: rgba(247, 167, 0, 1); }
 .entry.darkred:after { background: rgba(175, 0, 0, 1); }
-.entry.yellow:after { background: rgba(249, 233, 0, 1); }
+.entry.yellow:after { background: #e19e00; }
+.entry.purple:after { background: #430094; }
 
 /* Animations are cool!  */
 @-webkit-keyframes moveFromTopFade {
